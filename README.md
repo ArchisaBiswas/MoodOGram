@@ -18,7 +18,7 @@ MoodOGram leverages Generative AI to revolutionize playlist curation based on th
 
 ## Video Demonstration:
 
-Watch the demonstration video to see how MoodOGram atomatically produces the generated personalized playlist to a user's Spotify library:
+Please click on the thumbnail below to watch the demonstration video to see how MoodOGram atomatically produces the generated personalized playlist to a user's Spotify library:
 
 [![Watch the video](images/MoodOGram_Spotify_Integration%20Demonstration_Thumbnail.png)](https://drive.google.com/file/d/1xaiIEpJLAo54pG0LgB2tg2eXSDP-odSC/view?usp=sharing)
 
