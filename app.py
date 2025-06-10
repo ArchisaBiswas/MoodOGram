@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app)
 load_dotenv()
 #token = os.getenv("BARD_API_KEY")
-token = "dQhdekeGC9PoIRCb_rdRTLQphr0yzfoTmhMoh8gcCYHmseWIEvW3Gm_ko-vEN-ixOLtuMA."
+token = "BARD_API_KEY"
 print(token)
 
 cookie_dict = {
